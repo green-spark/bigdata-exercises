@@ -1,0 +1,2 @@
+hadoop tweet.TweetCountDriver -conf conf/hadoop-local.xml \
+  sample-input/tweet-count output/tweet

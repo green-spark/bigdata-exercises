@@ -1,0 +1,2 @@
+hadoop jar mr-tweet-counter-4.0.jar tweet.TweetCountDriver -conf conf/hadoop-cluster.xml \
+  sample-hdfs-input/tweet-count hdfs-output/tweet
